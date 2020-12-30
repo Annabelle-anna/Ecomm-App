@@ -1,0 +1,25 @@
+html{
+    min-height: 100%;
+    min-width: 100%;
+}
+nav{
+    padding: 20px;
+    border-bottom: 1px solid #e6f2fb;
+    // border: 0.1px groove #064369;
+    // box-shadow: 0 0 7px 0.5px #44b6fc;
+}
+
+// navbar
+
+nav li a{
+    padding: 7px 20px;
+    color: #124265;
+}
+#btn{
+    padding: 7px 20px;
+    color: #fff;
+    font-weight: 600;
+}
+nav li a:hover{
+    color: #67b8eb;
+}

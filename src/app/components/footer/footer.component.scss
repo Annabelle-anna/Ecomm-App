@@ -1,0 +1,42 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.container{
+    padding: 50px 10px;
+    font-size: 14px;
+}
+.input-group{
+    border-color: #67b8eb;
+}
+.container i{
+    size: 0.2px;
+    color: #67b8eb;;
+}
+.container a{
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+.copy{
+    font-size: 14px;
+}
+.contain{
+    max-width: 100%;
+}
+.container-fluid{
+    color: #fff;
+    font-size: 2em;
+}
+.container-fluid a{
+    text-decoration: none;
+}
+.pull-right i{
+    color: #fff;
+    padding: 0 10px;
+}
